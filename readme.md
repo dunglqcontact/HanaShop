@@ -4,7 +4,7 @@ of Java Web Lab course at FPT University, HCMC campus
  HCMC Campus
 
 ## You will find in this repo:
-* An online social network app which uses Servlet as Controller and follows MVC model 2
+* An e-commerce app which uses Servlet as Controller and follows MVC model 2
 * Using CSS to style website
 * A SQL script for making database
 
